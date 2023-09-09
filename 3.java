@@ -6,7 +6,6 @@ class Spy
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a number: ");
         int num = scanner.nextInt();
-
         int n = num;
         int sum = 0;
         int product = 1;
